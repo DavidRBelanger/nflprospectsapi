@@ -1,8 +1,7 @@
 # nflprospectsapi
 
 ## Overview
-This API provides endpoints to access basic American Football college -> NFL prospect information. API keys can be retrieved (for limited, personal project use only) by contacting 'dbelanger@albany.edu' or visiting my website (davidrbelanger.dev) and contacting me through there.
-
+This API provides endpoints to access basic American Football college -> NFL prospect information. API keys can be retrieved (for limited, personal project use only) by contacting 'dbelanger@albany.edu'.
 This api is hosted through netlify, and hosted through Google Firebase's free tier, so access is limited. 
 
 ## Base URL
